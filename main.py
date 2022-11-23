@@ -22,6 +22,8 @@ con.close()
 # # verify dictionary data loaded into dataframe
 # print(dictionary.head())
 
+# asdljkas;ldfkjas;ldfkj
+
 
 # get some general characteristics about the data set
 for col in dictionary[['Word', 'Description']]:
