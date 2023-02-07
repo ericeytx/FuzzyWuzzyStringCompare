@@ -4,6 +4,8 @@ import numpy as np
 from thefuzz import process, fuzz
 import sqlite3
 
+#Add new note
+
 # Applying FuzzyWuzzy adapted from article by Thanh Huynh:
 #   https://github.com/thuynh323/Natural-language-processing/blob/master/FuzzyWuzzy%20-%20Ramen%20Rater%20List/Find%20similar%20strings%20with%20FuzzyWuzzy.ipynb
 # English dictionary for sample data sourced from EMDTDev/eddydn:
